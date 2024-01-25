@@ -1,0 +1,42 @@
+{
+  "companies": [
+    {
+      "id": "cs24",
+      "name": "coca-cola",
+      "descripcion": "corporación multinacional estadounidense de bebidas con sede en Atlanta, Georgia.",
+      "founder": "Asa Griggs Candle",
+      "logo": "https://logo-marque.com/wp-content/uploads/2020/08/Coca-Cola-Logo.png",
+      "website": "https://www.coca-colacompany.com"
+    },
+    {
+      "id": "934b",
+      "name": "hola",
+      "descripcion": "fsfdf",
+      "founder": "sfsd",
+      "logo": "logo",
+      "website": "http"
+    },
+    {
+      "id": "e7c1",
+      "name": "gucci",
+      "descripcion": "Empresa norte americana textil",
+      "founder": "Maicol",
+      "logo": "LOGO",
+      "website": "http"
+    }
+  ],
+  "employees": [
+    {
+      "name": "Ronald",
+      "last_name": "Ortiz",
+      "email": "ronald.ortiz@riwi.io",
+      "position": "senior desarrollo de software",
+      "admission_date": "01-10-2023",
+      "status": "active",
+      "cv": "enlace cv",
+      "website": "portafolio o sitio web de la persona",
+      "company_id": "cs23",
+      "id": "6fa3"
+    }
+  ]
+}
